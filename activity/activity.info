@@ -1,0 +1,8 @@
+[Activity]
+name = Leer Pendrive
+activity_version = 1
+service_name = uy.edu.fing.geirea.leerpendrive
+class = leerpendrive.LeerPendrive
+icon = activity-icon
+mime_types =
+
